@@ -1,3 +1,6 @@
+
+<img width="2172" height="724" alt="صورة ChatGPT 30 سبتمبر 2026، 08_10_33 م" src="https://github.com/user-attachments/assets/e5c405f0-9c98-46a7-af1d-ffd30dba07d3" />
+
 # 🚓 Code 3 Installer
 
 ## ثبّت مودات الشرطة في GTA V Legacy بسهولة
@@ -11,6 +14,10 @@
 ### بعد التحميل
 
 شغّل الملف مباشرةً.
+
+## 💬 [انضم إلى ديسكورد Code 3](https://discord.gg/tTCec6qMw)
+
+للدعم، الأخبار، ومشاركة اقتراحاتك ومشاكلك.
 
 ## كيف تستخدمه
 
@@ -54,6 +61,10 @@ Installing LSPDFR and mods manually takes time and can cause conflicts or game i
 
 Run the file directly.
 
+## 💬 [Join the Code 3 Discord](https://discord.gg/tTCec6qMw)
+
+For support, news, suggestions, and issue reports.
+
 ## How to use it
 
 1. Run the app and sign in with Discord.
@@ -82,4 +93,3 @@ Code 3 Installer is intended to help install mods for a copy of GTA V that you o
 
 ---
 
-## **FAL · Fal Studio**
