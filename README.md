@@ -1,5 +1,6 @@
+<img width="2172" height="724" alt="صورة ChatGPT 30 سبتمبر 2026، 08_10_33 م" src="https://github.com/user-attachments/assets/820fcee3-74f1-4f73-b3fc-815273a914c3" />
 
-<img width="2172" height="724" alt="صورة ChatGPT 30 سبتمبر 2026، 08_10_33 م" src="https://github.com/user-attachments/assets/e5c405f0-9c98-46a7-af1d-ffd30dba07d3" />
+
 
 # 🚓 Code 3 Installer
 
@@ -9,13 +10,13 @@
 
 تثبيت LSPDFR والمودات يدويًا يأخذ وقتًا، وقد يسبب تعارضات أو مشاكل في اللعبة. Code 3 Installer يساعدك تختار ما تحتاجه، ويثبّته لك مع نسخة احتياطية وفحص للمشاكل.
 
-## ⬇️ [اضغط هنا لتحميل Code 3](https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Code.3.exe)
+## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Setup.exe"><strong>اضغط هنا لتحميل Code 3</strong></a>
 
 ### بعد التحميل
 
 شغّل الملف مباشرةً.
 
-## 💬 [انضم إلى ديسكورد Code 3](https://discord.gg/tTCec6qMw)
+## 💬 <a href="https://discord.gg/tTCec6qMw"><strong>انضم إلى ديسكورد Code 3</strong></a>
 
 للدعم، الأخبار، ومشاركة اقتراحاتك ومشاكلك.
 
@@ -55,13 +56,13 @@ A tool for installing police mods for **GTA V Legacy**, all in one place.
 
 Installing LSPDFR and mods manually takes time and can cause conflicts or game issues. Code 3 Installer helps you choose the mods you need, install them, back up your files, and check for problems.
 
-## ⬇️ [Click here to download Code 3](https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Code.3.exe)
+## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Setup.exe"><strong>Click here to download Code 3</strong></a>
 
 ### After downloading
 
 Run the file directly.
 
-## 💬 [Join the Code 3 Discord](https://discord.gg/tTCec6qMw)
+## 💬 <a href="https://discord.gg/tTCec6qMw"><strong>Join the Code 3 Discord</strong></a>
 
 For support, news, suggestions, and issue reports.
 
@@ -93,3 +94,4 @@ Code 3 Installer is intended to help install mods for a copy of GTA V that you o
 
 ---
 
+## **FAL · Fal Studio**
