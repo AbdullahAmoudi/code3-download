@@ -90,7 +90,7 @@ For support, news, suggestions, and issue reports.
 
 ## Usage rights
 
-Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files.
+Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files. 
 
 ---
 
