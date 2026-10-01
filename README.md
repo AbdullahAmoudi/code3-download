@@ -10,8 +10,8 @@
 
 تثبيت LSPDFR والمودات يدويًا يأخذ وقتًا، وقد يسبب تعارضات أو مشاكل في اللعبة. Code 3 Installer يساعدك تختار ما تحتاجه، ويثبّته لك مع نسخة احتياطية وفحص للمشاكل.
 
-## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Setup.exe"><strong>اضغط هنا لتحميل Code 3</strong></a>
-
+## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Code.3.exe"><strong>اضغط هنا لتحميل Code 3</strong></a>
+ 
 ### بعد التحميل
 
 شغّل الملف مباشرةً.
@@ -56,7 +56,7 @@ A tool for installing police mods for **GTA V Legacy**, all in one place.
 
 Installing LSPDFR and mods manually takes time and can cause conflicts or game issues. Code 3 Installer helps you choose the mods you need, install them, back up your files, and check for problems.
 
-## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Setup.exe"><strong>Click here to download Code 3</strong></a>
+## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Code.3.exe"><strong>Click here to download Code 3</strong></a>
 
 ### After downloading
 
@@ -90,7 +90,7 @@ For support, news, suggestions, and issue reports.
 
 ## Usage rights
 
-Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files. 
+Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files.
 
 ---
 
