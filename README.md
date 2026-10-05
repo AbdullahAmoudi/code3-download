@@ -4,7 +4,7 @@
 
 # Code 3 Installer
 
-**Los Santos police on your PC in one click**
+**شرطة لوس سانتوس على جهازك بضغطة واحدة**
 
 <a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest/download/Code3-Setup.exe"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20Code%203-1A6CF5?style=for-the-badge" height="52" alt="تحميل Code 3"></a>
 
@@ -14,83 +14,94 @@
 <img src="https://img.shields.io/badge/Price-Free-E53935?style=flat-square" alt="مجاني">
 <a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Discord-Code%203-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
-[العربية](README.md) &nbsp;·&nbsp; **English**
+**العربية** &nbsp;·&nbsp; [English](README.en.md)
 
 </div>
 
 
 ---
 
-### What is Code 3 Installer?
+<div dir="rtl">
 
-A free app that installs **LSPDFR** and police mods on **GTA V Legacy**, with no manual file copying and no modding experience.
+### ما هو Code 3 Installer؟
 
-Installing police mods by hand takes hours of searching, downloading and placing files in the game folders, and one small mistake stops the game from starting. With Code 3 you pick what you want and the app puts every file where it belongs.
+برنامج مجاني يثبّت **LSPDFR** ومودات الشرطة على **GTA V Legacy** دون نقل ملفات يدويًّا ودون خبرة سابقة في المودات.
 
-### 🎬 See it before you download
+تثبيت مودات الشرطة يدويًّا يأخذ ساعات من البحث والتحميل وتوزيع الملفات على مجلدات اللعبة، وأيّ خطأ صغير يمنع اللعبة من العمل. في Code 3 تختار ما تريد، والبرنامج يضع كل ملف في موضعه الصحيح.
+
+### 🎬 شاهد البرنامج قبل التحميل
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the guide"></a>
+<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="شاهد الشرح"></a>
 
 </div>
 
-### ⚡ Start in 4 steps
+### ⚡ ابدأ في 4 خطوات
 
-| | Step | Details |
+| | الخطوة | التفاصيل |
 |:-:|:--|:--|
-| **1** | Download and run | Press the download button at the top of this page and run the file. |
-| **2** | Sign in with Discord | Use your account in the Code 3 community. |
-| **3** | Set the game folder | Detected automatically on most PCs. |
-| **4** | Pick and press Install | Or let **Smart install** choose the essentials. |
+| **1** | حمّل البرنامج وشغّله | اضغط زر التحميل في أعلى الصفحة وشغّل الملف مباشرةً. |
+| **2** | سجّل دخولك عبر ديسكورد | الدخول بحسابك في مجتمع Code 3. |
+| **3** | حدّد مجلد اللعبة | يُكتشف تلقائيًّا في أغلب الأجهزة. |
+| **4** | اختر واضغط تثبيت | أو دع **التثبيت الذكي** يختار لك الأساسيات. |
 
-### ✨ Highlights
+</div>
 
-| | Feature | What it does |
+<!-- LATEST:START -->
+<!-- LATEST:END -->
+
+<div dir="rtl">
+
+### ✨ أهم المميزات
+
+| | الميزة | ماذا تفعل |
 |:-:|:--|:--|
-| 📦 | **170+ items** | LSPDFR and its plugins, scripts, cars and OIV packages in one place. |
-| 🪄 | **Smart install** | A complete ready setup, Classic or Modern, in one click. |
-| 🛡️ | **Conflict detection** | Warns about conflicting mods and missing requirements before installing. |
-| 🩺 | **Crash check** | Reads the game logs and points to the cause and the mod behind it. |
-| ⌨️ | **Mod keys** | Lists every mod shortcut and lets you change it inside the app. |
-| 🔄 | **Always up to date** | New mods and newer versions arrive without downloading the app again. |
-| ↩️ | **Restore the original game** | Remove every mod, keeping a copy if you want. |
-| ⭐ | **Ratings and comments** | See what community members think of a mod before installing it. |
-| 🌗 | **Arabic and English, three themes** | Light, dark and calm. |
+| 📦 | **أكثر من 170 عنصرًا** | LSPDFR وإضافاته، السكربتات، السيارات، وملفات OIV في مكان واحد. |
+| 🪄 | **التثبيت الذكي** | يختار لك تجربة كاملة جاهزة، كلاسيكية أو حديثة، بنقرة واحدة. |
+| 🛡️ | **كشف التعارضات** | ينبّهك إلى المودات المتعارضة والمتطلبات الناقصة قبل التثبيت. |
+| 🩺 | **فحص الأعطال** | يقرأ سجلات اللعبة ويحدّد سبب التوقف والمود المسؤول عنه. |
+| ⌨️ | **أزرار المودات بالعربية** | يعرض اختصارات كل مود ويتيح تعديلها من داخل البرنامج. |
+| 🔄 | **تحديثات مستمرة** | مودات جديدة وإصدارات أحدث تصلك دون إعادة تحميل البرنامج. |
+| ↩️ | **استعادة اللعبة الأصلية** | إزالة المودات كلها مع الاحتفاظ بنسخة منها إن رغبت. |
+| ⭐ | **تقييمات وتعليقات** | اطّلع على آراء أعضاء المجتمع في كل مود قبل تثبيته. |
+| 🌗 | **عربي وإنجليزي، وثلاثة مظاهر** | فاتح، داكن، وهادئ. |
 
-### 📋 Requirements
+### 📋 المتطلبات
 
 | | |
 |:--|:--|
-| **Game** | GTA V **Legacy** (a genuine copy) |
-| **System** | Windows 10 or 11 |
-| **Account** | A Discord account that joined the Code 3 community |
-| **Connection** | Internet while mods are downloading |
+| **اللعبة** | GTA V **Legacy** (نسخة أصلية) |
+| **النظام** | Windows 10 أو 11 |
+| **الحساب** | حساب ديسكورد منضم إلى مجتمع Code 3 |
+| **الاتصال** | إنترنت أثناء تنزيل المودات |
 
-### ⚠️ Before you start
+### ⚠️ قبل أن تبدأ
 
 > [!WARNING]
-> Windows may show a warning on first launch because the installer is not digitally signed yet.
-> Choose **More info** then **Run anyway**, provided you downloaded the file from this page.
+> قد يظهر تنبيه من Windows عند أول تشغيل لأن ملف التثبيت غير موقّع رقميًّا حاليًّا.
+> اختر **More info** ثم **Run anyway**، بشرط أن تكون حمّلت الملف من هذه الصفحة.
 
 > [!NOTE]
-> - Make sure you select the correct game folder before installing.
-> - Do not close the app while mods are downloading or installing.
-> - GTA V Enhanced is not supported.
+> - تأكّد من تحديد مجلد اللعبة الصحيح قبل التثبيت.
+> - لا تغلق البرنامج أثناء تنزيل المودات أو تثبيتها.
+> - البرنامج لا يدعم نسخة GTA V Enhanced.
 
-### 💬 Support and community
+### 💬 الدعم والمجتمع
 
 <div align="center">
 
-<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Join%20Code%203%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Code 3 Discord"></a>
+<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Join%20Code%203%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="ديسكورد Code 3"></a>
 
-For support, news, suggestions and issue reports.
+للدعم، والأخبار، ومشاركة اقتراحاتك ومشاكلك.
 
 </div>
 
-### 📜 Usage rights
+### 📜 حقوق الاستخدام
 
-Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files. Mods belong to their authors, and links to their original pages are available inside the app.
+Code 3 Installer مخصّص لتسهيل تثبيت المودات على نسخة GTA V التي تملكها. لا تستخدمه مع نسخ مقرصنة من اللعبة، ولا توزّع ملفات اللعبة نفسها. المودات ملك لأصحابها، وروابط صفحاتها الأصلية موجودة داخل البرنامج.
+
+</div>
 
 ---
 
