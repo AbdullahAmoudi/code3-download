@@ -10,14 +10,14 @@
 
 <br>
 
-<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest/download/Code3-Setup.exe"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20Code%203-1A6CF5?style=for-the-badge&logoColor=white" height="52" alt="تحميل Code 3"></a>
+<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest/download/Code3-Setup.exe"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20Code%203-1A6CF5?style=for-the-badge" height="52" alt="تحميل Code 3"></a>
 
 <br><br>
 
-<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest"><img src="https://img.shields.io/github/v/release/AbdullahAmoudi/code3-download?style=flat-square&label=%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1&color=1A6CF5" alt="الإصدار"></a>
+<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest"><img src="https://img.shields.io/github/v/release/AbdullahAmoudi/code3-download?style=flat-square&label=Version&color=1A6CF5" alt="الإصدار"></a>
 <img src="https://img.shields.io/badge/GTA%20V-Legacy-16A34A?style=flat-square" alt="GTA V Legacy">
 <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows 10 / 11">
-<img src="https://img.shields.io/badge/%D8%A7%D9%84%D8%B3%D8%B9%D8%B1-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-E53935?style=flat-square" alt="مجاني">
+<img src="https://img.shields.io/badge/Price-Free-E53935?style=flat-square" alt="مجاني">
 <a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Discord-Code%203-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
 <br><br>
@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20%D8%B4%D8%A7%D9%87%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B1%D8%AD%20%D8%B9%D9%84%D9%89%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="شاهد الشرح"></a>
+<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="شاهد الشرح"></a>
 
 </div>
 
@@ -107,7 +107,7 @@
 
 <div align="center">
 
-<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/%D8%A7%D9%86%D8%B6%D9%85%20%D8%A5%D9%84%D9%89%20%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF%20Code%203-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="ديسكورد Code 3"></a>
+<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Join%20Code%203%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="ديسكورد Code 3"></a>
 
 للدعم، والأخبار، ومشاركة اقتراحاتك ومشاكلك.
 
@@ -139,7 +139,7 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <div align="center">
 
-<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20guide%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the guide"></a>
+<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the guide"></a>
 
 </div>
 
@@ -200,7 +200,7 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <div align="center">
 
-<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Join%20the%20Code%203%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Code 3 Discord"></a>
+<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Join%20Code%203%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Code 3 Discord"></a>
 
 For support, news, suggestions and issue reports.
 
