@@ -1,97 +1,225 @@
-<img width="2172" height="724" alt="صورة ChatGPT 30 سبتمبر 2026، 08_10_33 م" src="https://github.com/user-attachments/assets/820fcee3-74f1-4f73-b3fc-815273a914c3" />
+<div align="center">
 
+<img width="2172" height="724" alt="Code 3 Installer" src="https://github.com/user-attachments/assets/820fcee3-74f1-4f73-b3fc-815273a914c3" />
 
-
-# 🚓 Code 3 Installer
-
-## ثبّت مودات الشرطة في GTA V Legacy بسهولة
-
-برنامج يثبّت مودات الشرطة للعبة **GTA V Legacy**، ويرتّبها لك في مكان واحد بدون تعقيد.
-
-تثبيت LSPDFR والمودات يدويًا يأخذ وقتًا، وقد يسبب تعارضات أو مشاكل في اللعبة. Code 3 Installer يساعدك تختار ما تحتاجه، ويثبّته لك مع نسخة احتياطية وفحص للمشاكل.
-
-## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Code.3.exe"><strong>اضغط هنا لتحميل Code 3</strong></a>
- 
-### بعد التحميل
-
-شغّل الملف مباشرةً.
-
-## 💬 <a href="https://discord.gg/tTCec6qMw"><strong>انضم إلى ديسكورد Code 3</strong></a>
-
-للدعم، الأخبار، ومشاركة اقتراحاتك ومشاكلك.
-
-## كيف تستخدمه
-
-1. شغّل البرنامج وسجّل دخولك عبر ديسكورد.
-2. اختر مكان تثبيت **GTA V Legacy**.
-3. اختر مودات الشرطة والإضافات التي تريدها.
-4. اضغط تثبيت، ثم شغّل اللعبة.
-
-## أهم ما فيه
-
-- يثبّت **LSPDFR** وإضافاته ومودات الشرطة من مكان واحد.
-- نسخة احتياطية قبل التعديل، لتقدر ترجع عن أي تغيير.
-- كشف للتعارضات وتحليل لمشاكل اللعبة.
-- تحديثات للمودات والبرنامج.
-- يزيل المودات أو يعيد الملفات عند الحاجة.
-
-## أشياء لازم تعرفها
-
-- البرنامج مخصص لـ **GTA V Legacy** على Windows 10 / 11.
-- تأكد من تحديد مجلد اللعبة الصحيح قبل التثبيت.
-- قد يظهر تنبيه من Windows عند أول تشغيل لأن ملف التثبيت غير موقّع رقميًا حاليًا. اختر **More info** ثم **Run anyway** إذا كنت حمّلت الملف من هذه الصفحة.
-- لا تغلق البرنامج أثناء تنزيل أو تثبيت المودات.
-
-## حقوق الاستخدام
-
-Code 3 Installer مخصص لتسهيل تثبيت المودات على نسخة GTA V التي تملكها. لا تستخدمه مع نسخ مقرصنة من اللعبة، ولا توزّع ملفات اللعبة نفسها.
-
----
+<br><br>
 
 # 🚓 Code 3 Installer
 
-## Install GTA V Legacy police mods easily
+**شرطة لوس سانتوس على جهازك بضغطة واحدة**
 
-A tool for installing police mods for **GTA V Legacy**, all in one place.
+<br>
 
-Installing LSPDFR and mods manually takes time and can cause conflicts or game issues. Code 3 Installer helps you choose the mods you need, install them, back up your files, and check for problems.
+<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest/download/Code3-Setup.exe"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20Code%203-1A6CF5?style=for-the-badge&logoColor=white" height="52" alt="تحميل Code 3"></a>
 
-## ⬇️ <a href="https://github.com/AbdullahAmoudi/code3-download/releases/download/v1.0.0/Code.3.exe"><strong>Click here to download Code 3</strong></a>
+<br><br>
 
-### After downloading
+<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest"><img src="https://img.shields.io/github/v/release/AbdullahAmoudi/code3-download?style=flat-square&label=%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1&color=1A6CF5" alt="الإصدار"></a>
+<img src="https://img.shields.io/badge/GTA%20V-Legacy-16A34A?style=flat-square" alt="GTA V Legacy">
+<img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows 10 / 11">
+<img src="https://img.shields.io/badge/%D8%A7%D9%84%D8%B3%D8%B9%D8%B1-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-E53935?style=flat-square" alt="مجاني">
+<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Discord-Code%203-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
-Run the file directly.
+<br><br>
 
-## 💬 <a href="https://discord.gg/tTCec6qMw"><strong>Join the Code 3 Discord</strong></a>
+[العربية](#-العربية) &nbsp;·&nbsp; [English](#-english)
 
-For support, news, suggestions, and issue reports.
+</div>
 
-## How to use it
-
-1. Run the app and sign in with Discord.
-2. Select your **GTA V Legacy** installation folder.
-3. Choose the police mods and add-ons you want.
-4. Click Install, then launch the game.
-
-## Highlights
-
-- Install **LSPDFR**, its add-ons, and police mods from one place.
-- Backups are created before changes are made.
-- Conflict detection and game-issue analysis.
-- App and mod updates.
-- Remove mods or restore files when needed.
-
-## Things to know
-
-- Designed for **GTA V Legacy** on Windows 10 / 11.
-- Make sure you select the correct game folder before installing.
-- Windows may show a warning on first launch because the installer is not digitally signed yet. If you downloaded it from this page, choose **More info** then **Run anyway**.
-- Do not close the app while mods are downloading or installing.
-
-## Usage rights
-
-Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files.
+<br>
 
 ---
 
-## **FAL · Fal Studio**
+<div dir="rtl">
+
+## 🇸🇦 العربية
+
+### ما هو Code 3 Installer؟
+
+برنامج مجاني يثبّت **LSPDFR** ومودات الشرطة على **GTA V Legacy** دون نقل ملفات يدويًّا ودون خبرة سابقة في المودات.
+
+تثبيت مودات الشرطة يدويًّا يأخذ ساعات من البحث والتحميل وتوزيع الملفات على مجلدات اللعبة، وأيّ خطأ صغير يمنع اللعبة من العمل. في Code 3 تختار ما تريد، والبرنامج يضع كل ملف في موضعه الصحيح.
+
+<br>
+
+### 🎬 شاهد البرنامج قبل التحميل
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20%D8%B4%D8%A7%D9%87%D8%AF%20%D8%A7%D9%84%D8%B4%D8%B1%D8%AD%20%D8%B9%D9%84%D9%89%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="شاهد الشرح"></a>
+
+</div>
+
+<br>
+
+### ⚡ ابدأ في 4 خطوات
+
+| | الخطوة | التفاصيل |
+|:-:|:--|:--|
+| **1** | حمّل البرنامج وشغّله | اضغط زر التحميل في أعلى الصفحة وشغّل الملف مباشرةً. |
+| **2** | سجّل دخولك عبر ديسكورد | الدخول بحسابك في مجتمع Code 3. |
+| **3** | حدّد مجلد اللعبة | يُكتشف تلقائيًّا في أغلب الأجهزة. |
+| **4** | اختر واضغط تثبيت | أو دع **التثبيت الذكي** يختار لك الأساسيات. |
+
+<br>
+
+### ✨ أهم المميزات
+
+| | الميزة | ماذا تفعل |
+|:-:|:--|:--|
+| 📦 | **أكثر من 170 عنصرًا** | LSPDFR وإضافاته، السكربتات، السيارات، وملفات OIV في مكان واحد. |
+| 🪄 | **التثبيت الذكي** | يختار لك تجربة كاملة جاهزة، كلاسيكية أو حديثة، بنقرة واحدة. |
+| 🛡️ | **كشف التعارضات** | ينبّهك إلى المودات المتعارضة والمتطلبات الناقصة قبل التثبيت. |
+| 🩺 | **فحص الأعطال** | يقرأ سجلات اللعبة ويحدّد سبب التوقف والمود المسؤول عنه. |
+| ⌨️ | **أزرار المودات بالعربية** | يعرض اختصارات كل مود ويتيح تعديلها من داخل البرنامج. |
+| 🔄 | **تحديثات مستمرة** | مودات جديدة وإصدارات أحدث تصلك دون إعادة تحميل البرنامج. |
+| ↩️ | **استعادة اللعبة الأصلية** | إزالة المودات كلها مع الاحتفاظ بنسخة منها إن رغبت. |
+| ⭐ | **تقييمات وتعليقات** | اطّلع على آراء أعضاء المجتمع في كل مود قبل تثبيته. |
+| 🌗 | **عربي وإنجليزي، وثلاثة مظاهر** | فاتح، داكن، وهادئ. |
+
+<br>
+
+### 📋 المتطلبات
+
+| | |
+|:--|:--|
+| **اللعبة** | GTA V **Legacy** (نسخة أصلية) |
+| **النظام** | Windows 10 أو 11 |
+| **الحساب** | حساب ديسكورد منضم إلى مجتمع Code 3 |
+| **الاتصال** | إنترنت أثناء تنزيل المودات |
+
+<br>
+
+### ⚠️ قبل أن تبدأ
+
+> [!WARNING]
+> قد يظهر تنبيه من Windows عند أول تشغيل لأن ملف التثبيت غير موقّع رقميًّا حاليًّا.
+> اختر **More info** ثم **Run anyway**، بشرط أن تكون حمّلت الملف من هذه الصفحة.
+
+> [!NOTE]
+> - تأكّد من تحديد مجلد اللعبة الصحيح قبل التثبيت.
+> - لا تغلق البرنامج أثناء تنزيل المودات أو تثبيتها.
+> - البرنامج لا يدعم نسخة GTA V Enhanced.
+
+<br>
+
+### 💬 الدعم والمجتمع
+
+<div align="center">
+
+<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/%D8%A7%D9%86%D8%B6%D9%85%20%D8%A5%D9%84%D9%89%20%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF%20Code%203-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="ديسكورد Code 3"></a>
+
+للدعم، والأخبار، ومشاركة اقتراحاتك ومشاكلك.
+
+</div>
+
+<br>
+
+### 📜 حقوق الاستخدام
+
+Code 3 Installer مخصّص لتسهيل تثبيت المودات على نسخة GTA V التي تملكها. لا تستخدمه مع نسخ مقرصنة من اللعبة، ولا توزّع ملفات اللعبة نفسها. المودات ملك لأصحابها، وروابط صفحاتها الأصلية موجودة داخل البرنامج.
+
+</div>
+
+<br>
+
+---
+
+## 🇬🇧 English
+
+### What is Code 3 Installer?
+
+A free app that installs **LSPDFR** and police mods on **GTA V Legacy**, with no manual file copying and no modding experience.
+
+Installing police mods by hand takes hours of searching, downloading and placing files in the game folders, and one small mistake stops the game from starting. With Code 3 you pick what you want and the app puts every file where it belongs.
+
+<br>
+
+### 🎬 See it before you download
+
+<div align="center">
+
+<a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20the%20guide%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the guide"></a>
+
+</div>
+
+<br>
+
+### ⚡ Start in 4 steps
+
+| | Step | Details |
+|:-:|:--|:--|
+| **1** | Download and run | Press the download button at the top of this page and run the file. |
+| **2** | Sign in with Discord | Use your account in the Code 3 community. |
+| **3** | Set the game folder | Detected automatically on most PCs. |
+| **4** | Pick and press Install | Or let **Smart install** choose the essentials. |
+
+<br>
+
+### ✨ Highlights
+
+| | Feature | What it does |
+|:-:|:--|:--|
+| 📦 | **170+ items** | LSPDFR and its plugins, scripts, cars and OIV packages in one place. |
+| 🪄 | **Smart install** | A complete ready setup, Classic or Modern, in one click. |
+| 🛡️ | **Conflict detection** | Warns about conflicting mods and missing requirements before installing. |
+| 🩺 | **Crash check** | Reads the game logs and points to the cause and the mod behind it. |
+| ⌨️ | **Mod keys** | Lists every mod shortcut and lets you change it inside the app. |
+| 🔄 | **Always up to date** | New mods and newer versions arrive without downloading the app again. |
+| ↩️ | **Restore the original game** | Remove every mod, keeping a copy if you want. |
+| ⭐ | **Ratings and comments** | See what community members think of a mod before installing it. |
+| 🌗 | **Arabic and English, three themes** | Light, dark and calm. |
+
+<br>
+
+### 📋 Requirements
+
+| | |
+|:--|:--|
+| **Game** | GTA V **Legacy** (a genuine copy) |
+| **System** | Windows 10 or 11 |
+| **Account** | A Discord account that joined the Code 3 community |
+| **Connection** | Internet while mods are downloading |
+
+<br>
+
+### ⚠️ Before you start
+
+> [!WARNING]
+> Windows may show a warning on first launch because the installer is not digitally signed yet.
+> Choose **More info** then **Run anyway**, provided you downloaded the file from this page.
+
+> [!NOTE]
+> - Make sure you select the correct game folder before installing.
+> - Do not close the app while mods are downloading or installing.
+> - GTA V Enhanced is not supported.
+
+<br>
+
+### 💬 Support and community
+
+<div align="center">
+
+<a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Join%20the%20Code%203%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Code 3 Discord"></a>
+
+For support, news, suggestions and issue reports.
+
+</div>
+
+<br>
+
+### 📜 Usage rights
+
+Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files. Mods belong to their authors, and links to their original pages are available inside the app.
+
+<br>
+
+---
+
+<div align="center">
+
+**FAL · Fal Studio**
+
+<sub>Made in Saudi Arabia 🇸🇦 for police simulation fans</sub>
+
+</div>
