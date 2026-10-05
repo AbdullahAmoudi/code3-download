@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
 
 <details open>
 <summary><b>🇸🇦 العربية</b></summary>
@@ -37,6 +37,8 @@
 
 </div>
 
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
+
 ### ⚡ ابدأ في 4 خطوات
 
 | | الخطوة | التفاصيل |
@@ -53,6 +55,8 @@
 
 <div dir="rtl">
 
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
+
 ### ✨ أهم المميزات
 
 | | الميزة | ماذا تفعل |
@@ -66,6 +70,8 @@
 | ↩️ | **استعادة اللعبة الأصلية** | إزالة المودات كلها مع الاحتفاظ بنسخة منها إن رغبت. |
 | ⭐ | **تقييمات وتعليقات** | اطّلع على آراء أعضاء المجتمع في كل مود قبل تثبيته. |
 | 🌗 | **عربي وإنجليزي، وثلاثة مظاهر** | فاتح، داكن، وهادئ. |
+
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
 
 ### 📋 المتطلبات
 
@@ -86,6 +92,8 @@
 > - تأكّد من تحديد مجلد اللعبة الصحيح قبل التثبيت.
 > - لا تغلق البرنامج أثناء تنزيل المودات أو تثبيتها.
 > - البرنامج لا يدعم نسخة GTA V Enhanced.
+
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
 
 ### 💬 الدعم والمجتمع
 
@@ -122,6 +130,8 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 </div>
 
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
+
 ### ⚡ Start in 4 steps
 
 | | Step | Details |
@@ -130,6 +140,8 @@ Installing police mods by hand takes hours of searching, downloading and placing
 | **2** | Sign in with Discord | Use your account in the Code 3 community. |
 | **3** | Set the game folder | Detected automatically on most PCs. |
 | **4** | Pick and press Install | Or let **Smart install** choose the essentials. |
+
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
 
 ### ✨ Highlights
 
@@ -144,6 +156,8 @@ Installing police mods by hand takes hours of searching, downloading and placing
 | ↩️ | **Restore the original game** | Remove every mod, keeping a copy if you want. |
 | ⭐ | **Ratings and comments** | See what community members think of a mod before installing it. |
 | 🌗 | **Arabic and English, three themes** | Light, dark and calm. |
+
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
 
 ### 📋 Requirements
 
@@ -165,6 +179,8 @@ Installing police mods by hand takes hours of searching, downloading and placing
 > - Do not close the app while mods are downloading or installing.
 > - GTA V Enhanced is not supported.
 
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
+
 ### 💬 Support and community
 
 <div align="center">
@@ -181,7 +197,7 @@ Code 3 Installer is intended to help install mods for a copy of GTA V that you o
 
 </details>
 
----
+<img width="2172" height="89" alt="" src="https://github.com/user-attachments/assets/d85733f9-3b69-4aa2-aa5e-787cc758cf04" />
 
 <div align="center">
 
