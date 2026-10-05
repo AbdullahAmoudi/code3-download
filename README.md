@@ -2,17 +2,11 @@
 
 <img width="2172" height="724" alt="Code 3 Installer" src="https://github.com/user-attachments/assets/820fcee3-74f1-4f73-b3fc-815273a914c3" />
 
-<br><br>
-
-# 🚓 Code 3 Installer
+# Code 3 Installer
 
 **شرطة لوس سانتوس على جهازك بضغطة واحدة**
 
-<br>
-
 <a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest/download/Code3-Setup.exe"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20Code%203-1A6CF5?style=for-the-badge" height="52" alt="تحميل Code 3"></a>
-
-<br><br>
 
 <a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest"><img src="https://img.shields.io/github/v/release/AbdullahAmoudi/code3-download?style=flat-square&label=Version&color=1A6CF5" alt="الإصدار"></a>
 <img src="https://img.shields.io/badge/GTA%20V-Legacy-16A34A?style=flat-square" alt="GTA V Legacy">
@@ -20,13 +14,9 @@
 <img src="https://img.shields.io/badge/Price-Free-E53935?style=flat-square" alt="مجاني">
 <a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Discord-Code%203-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
 
-<br><br>
-
 [العربية](#-العربية) &nbsp;·&nbsp; [English](#-english)
 
 </div>
-
-<br>
 
 ---
 
@@ -40,8 +30,6 @@
 
 تثبيت مودات الشرطة يدويًّا يأخذ ساعات من البحث والتحميل وتوزيع الملفات على مجلدات اللعبة، وأيّ خطأ صغير يمنع اللعبة من العمل. في Code 3 تختار ما تريد، والبرنامج يضع كل ملف في موضعه الصحيح.
 
-<br>
-
 ### 🎬 شاهد البرنامج قبل التحميل
 
 <div align="center">
@@ -49,8 +37,6 @@
 <a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="شاهد الشرح"></a>
 
 </div>
-
-<br>
 
 ### ⚡ ابدأ في 4 خطوات
 
@@ -60,8 +46,6 @@
 | **2** | سجّل دخولك عبر ديسكورد | الدخول بحسابك في مجتمع Code 3. |
 | **3** | حدّد مجلد اللعبة | يُكتشف تلقائيًّا في أغلب الأجهزة. |
 | **4** | اختر واضغط تثبيت | أو دع **التثبيت الذكي** يختار لك الأساسيات. |
-
-<br>
 
 ### ✨ أهم المميزات
 
@@ -77,8 +61,6 @@
 | ⭐ | **تقييمات وتعليقات** | اطّلع على آراء أعضاء المجتمع في كل مود قبل تثبيته. |
 | 🌗 | **عربي وإنجليزي، وثلاثة مظاهر** | فاتح، داكن، وهادئ. |
 
-<br>
-
 ### 📋 المتطلبات
 
 | | |
@@ -87,8 +69,6 @@
 | **النظام** | Windows 10 أو 11 |
 | **الحساب** | حساب ديسكورد منضم إلى مجتمع Code 3 |
 | **الاتصال** | إنترنت أثناء تنزيل المودات |
-
-<br>
 
 ### ⚠️ قبل أن تبدأ
 
@@ -101,8 +81,6 @@
 > - لا تغلق البرنامج أثناء تنزيل المودات أو تثبيتها.
 > - البرنامج لا يدعم نسخة GTA V Enhanced.
 
-<br>
-
 ### 💬 الدعم والمجتمع
 
 <div align="center">
@@ -113,15 +91,11 @@
 
 </div>
 
-<br>
-
 ### 📜 حقوق الاستخدام
 
 Code 3 Installer مخصّص لتسهيل تثبيت المودات على نسخة GTA V التي تملكها. لا تستخدمه مع نسخ مقرصنة من اللعبة، ولا توزّع ملفات اللعبة نفسها. المودات ملك لأصحابها، وروابط صفحاتها الأصلية موجودة داخل البرنامج.
 
 </div>
-
-<br>
 
 ---
 
@@ -133,8 +107,6 @@ A free app that installs **LSPDFR** and police mods on **GTA V Legacy**, with no
 
 Installing police mods by hand takes hours of searching, downloading and placing files in the game folders, and one small mistake stops the game from starting. With Code 3 you pick what you want and the app puts every file where it belongs.
 
-<br>
-
 ### 🎬 See it before you download
 
 <div align="center">
@@ -142,8 +114,6 @@ Installing police mods by hand takes hours of searching, downloading and placing
 <a href="https://www.youtube.com/watch?v=JsT9iFBxfSI"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20on%20YouTube-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the guide"></a>
 
 </div>
-
-<br>
 
 ### ⚡ Start in 4 steps
 
@@ -153,8 +123,6 @@ Installing police mods by hand takes hours of searching, downloading and placing
 | **2** | Sign in with Discord | Use your account in the Code 3 community. |
 | **3** | Set the game folder | Detected automatically on most PCs. |
 | **4** | Pick and press Install | Or let **Smart install** choose the essentials. |
-
-<br>
 
 ### ✨ Highlights
 
@@ -170,8 +138,6 @@ Installing police mods by hand takes hours of searching, downloading and placing
 | ⭐ | **Ratings and comments** | See what community members think of a mod before installing it. |
 | 🌗 | **Arabic and English, three themes** | Light, dark and calm. |
 
-<br>
-
 ### 📋 Requirements
 
 | | |
@@ -180,8 +146,6 @@ Installing police mods by hand takes hours of searching, downloading and placing
 | **System** | Windows 10 or 11 |
 | **Account** | A Discord account that joined the Code 3 community |
 | **Connection** | Internet while mods are downloading |
-
-<br>
 
 ### ⚠️ Before you start
 
@@ -194,8 +158,6 @@ Installing police mods by hand takes hours of searching, downloading and placing
 > - Do not close the app while mods are downloading or installing.
 > - GTA V Enhanced is not supported.
 
-<br>
-
 ### 💬 Support and community
 
 <div align="center">
@@ -206,13 +168,9 @@ For support, news, suggestions and issue reports.
 
 </div>
 
-<br>
-
 ### 📜 Usage rights
 
 Code 3 Installer is intended to help install mods for a copy of GTA V that you own. Do not use it with pirated copies of the game or distribute game files. Mods belong to their authors, and links to their original pages are available inside the app.
-
-<br>
 
 ---
 
