@@ -53,37 +53,45 @@
 
 <div dir="rtl">
 
-### آخر تحديث: v1.0.4
+### آخر تحديث: v1.0.5
 
-**واجهة رئيسية جديدة وتحسينات شاملة لمحرر الأزرار**
+**إصلاح سريع وتحسينات شاملة**
 
-يقدم هذا التحديث واجهة رئيسية جديدة كلياً مع تحسينات شاملة في التثبيت الذكي ومحرر الأزرار ودعم أحدث إصدارات المودات مثل Background Radio Chatter.
+يضيف هذا التحديث إصلاحًا سريعًا للأعطال ومسحًا للسجلات القديمة واختيار مقاس الكيبورد ومودات جديدة منها RDE وTypical Callouts.
+
+**مودات جديدة**
+
+- **Immersive Vehicles**: سكربت يضيف تفاصيل تفاعلية للمركبات: لوحة العدادات والتعبئة بالوقود وهاتف الطريق
+- **RDE - Realistic Dispatch Enhancement**: يطوّر نظام البلاغات والاستجابة في اللعبة: وحدات ومركبات طوارئ وسلوك أقرب للواقع. يأتي مع ملف إلغاء التثبيت
+- **RDE - Realistic Dispatch Enhancement — Uninstall**
+- **sCallout**: حزمة بلاغات جديدة مع قائمة تفاعل للفحص والتفتيش
+- **SuperCallouts**: حزمة بلاغات كبيرة بمواقف مختلفة
+- **Typical Callouts**: بلاغات يومية هادئة بدون مطاردات سريعة
 
 **جديد**
 
-- صفحة رئيسية جديدة تعرّف بالبرنامج وتعرض أحدث ما أُضيف وطريقة العمل وأهداف البرنامج ومعلوماته
-- قسم «أحدث ما أُضيف» في الرئيسية يعرض مودات آخر إصدار، وبالضغط على أي مود تنتقل إليه مباشرة
-- صور وفيديو لكل مود داخل نافذة معلوماته، مع تكبير الصور والتنقل بينها
-- زر شرح في صانع OIV يوضّح ما هو ملف OIV وفكرة الصانع وخطوات استخدامه
-- زر شرح بالفيديو داخل نافذة طريقة استخدام البرنامج
-- صورة خاصة بكل مظهر في الرئيسية: الفاتح والداكن والهادئ
+- «إصلاح سريع» في تحليل آخر تشغيل: يعطّل المود المسبب ويحدد الملفات الناقصة ويجهّز بحثًا عن الحل
+- زر مسح السجلات القديمة وملفات الانهيار من مجلد اللعبة
+- اختيار مقاس الكيبورد (60 / 65 / 75 / 80 / 100%) مع توزيع الأزرار تلقائيًا
+- زر تجاهل التعارض في محرر الأزرار
+- كشف حزم إزالة OIV تلقائيًا وزر إزالة لكل مود
+- علامة اللغة AR / EN على كل مود وفلتر للمودات العربية
+- فرز كل قسم: الأحدث، آخر تحديث، اللغة
+- مساعد داخل البرنامج يجيب عن البرنامج والمودات واللعبة بشكل أفضل
+- مودات جديدة: sCallout وTypical Callouts وImmersive Vehicles وRDE
+- تعريب أزرار مودات جديدة في محرر الأزرار
 
 **تحسينات**
 
-- التثبيت الذكي يعرض محتوى كل نوع قبل الاختيار، مع إمكانية الرجوع والمقارنة بين النوعين
-- تحديث مود Background Radio Chatter إلى الإصدار 1.2.2
-- توضيح الفرق بين التجربة الكلاسيكية والحديثة والإضافات الخاصة بكل منهما
-- محرر الأزرار يقرأ أزرار مودات أكثر: Simple Trainer و BasicAnimations و OutfitToggler و Country Murders وغيرها
-- ظهور الأزرار غير المعيّنة في محرر الأزرار ليمكن تعيين زر لها
-- الرئيسية تتكيّف مع حجم النافذة وتملأ المساحة دون شريط تمرير
-- شريط علوي أخف: نُقلت أزرار الداعمين وتواصل معنا وصانع OIV وعدد المستخدمين إلى الرئيسية
-- زر مجتمع Code 3 في الرئيسية يفتح السيرفر مباشرة
+- رسالة أوضح عند ازدحام ديسكورد أثناء تسجيل الدخول
+- عداد المستخدمين في الرئيسية رقم فقط وزر ديسكورد في الصف العلوي بنفس التصميم
+- إخفاء رسائل الأخطاء المزعجة من وحدة التحكم
 
 **إصلاحات**
 
-- زر حزام الأمان في مود Seatbelt لم يكن يظهر في محرر الأزرار
-- أزرار Combat Enhanced و Realistic Taser و Reverse Camera لم تكن تُقرأ
-- خلفية حقل البحث داخل الأقسام في المظهر الداكن
+- بطاقة مود كانت تظهر مكررة بعد تغيير اسمه
+- المودات كانت تختفي عند تفعيل فلتر العربي بدون نتيجة
+- زر مسح السجلات القديمة ما كان يظهر نتيجته
 
 </div>
 
@@ -151,37 +159,45 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <!-- LATEST_EN:START -->
 
-### Latest update: v1.0.4
+### Latest update: v1.0.5
 
-**New Main Interface and Comprehensive Button Editor Updates**
+**Quick Fix and Major Improvements**
 
-This update introduces a completely new main interface with comprehensive improvements to smart installation and the button editor, alongside support for the latest mod versions like Background Radio Chatter.
+This update adds a quick crash fix, old log cleanup, keyboard size selection and new mods including RDE and Typical Callouts.
+
+**New mods**
+
+- **Immersive Vehicles**: A script that adds interactive vehicle details: dashboard, refuelling and a roadside phone
+- **RDE - Realistic Dispatch Enhancement**: Improves the in-game dispatch and response system with more realistic units, emergency vehicles and behaviour. Comes with an uninstall file
+- **RDE - Realistic Dispatch Enhancement — Uninstall**
+- **sCallout**: A callout pack with an interaction menu for tests and searches
+- **SuperCallouts**: A large callout pack
+- **Typical Callouts**: Calm everyday callouts without high-speed pursuits
 
 **New**
 
-- A new home page introducing the program, showcasing the latest additions, workflow, program goals, and information.
-- The 'Latest Additions' section on the home page displays the latest version mods, and clicking any mod navigates to it directly.
-- Images and video for each mod inside its information window, with image zoom and navigation capabilities.
-- An explanation button in the OIV Creator clarifies what an OIV file is, the creator's concept, and usage steps.
-- A video explanation button inside the program usage instructions window.
-- A dedicated image for each theme on the home page: Light, Dark, and Calm.
+- "Quick Fix" in last-run analysis: disables the offending mod, finds missing files and prepares a search for the solution
+- A button to clear old logs and crash files from the game folder
+- Keyboard size selection (60 / 65 / 75 / 80 / 100%) with automatic key layout
+- An ignore-conflict button in the key editor
+- Automatic detection of OIV uninstall packages and an uninstall button for each mod
+- AR / EN language badge on every mod and a filter for Arabic mods
+- Sorting for every section: newest, last updated, language
+- An in-app assistant that answers better about the program, mods and the game
+- New mods: sCallout, Typical Callouts, Immersive Vehicles and RDE
+- Arabic labels for the buttons of new mods in the key editor
 
 **Improvements**
 
-- Smart installation displays the content of each type before selection, with the ability to go back and compare between both types.
-- Updated Background Radio Chatter mod to version 1.2.2.
-- Clarified the difference between the classic and modern experience and the specific add-ons for each.
-- The button editor reads buttons for more mods: Simple Trainer, BasicAnimations, OutfitToggler, Country Murders, and others.
-- Unassigned buttons appear in the button editor so a key can be assigned to them.
-- The home page adapts to the window size and fills the space without a scrollbar.
-- A lighter top bar: Supporters, Contact Us, OIV Creator, and user count buttons were moved to the home page.
-- The Code 3 Community button on the home page opens the server directly.
+- A clearer message when Discord is busy during sign-in
+- The home users counter is now a number only and the Discord button moved to the top row with the same design
+- Noisy console error messages are hidden
 
 **Fixes**
 
-- The seatbelt button in the Seatbelt mod was not showing in the button editor.
-- Buttons for Combat Enhanced, Realistic Taser, and Reverse Camera were not being read.
-- Fixed the search field background inside sections under the dark theme.
+- A mod card appeared twice after its name was changed
+- Mods disappeared when the Arabic filter was on with no results
+- The clear old logs button did not show its result
 
 <!-- LATEST_EN:END -->
 
