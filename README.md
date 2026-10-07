@@ -53,45 +53,34 @@
 
 <div dir="rtl">
 
-### آخر تحديث: v1.0.5
+### آخر تحديث: v1.0.6
 
-**إصلاح سريع وتحسينات شاملة**
+**مود NPC-AI بلهجتك وإشعارات جديدة**
 
-يضيف هذا التحديث إصلاحًا سريعًا للأعطال ومسحًا للسجلات القديمة واختيار مقاس الكيبورد ومودات جديدة منها RDE وTypical Callouts.
+يضيف هذا التحديث اختيار اللغة واللهجة لمود NPC-AI مع دعم أكثر من مفتاح، وحزم سيارات BCSO وLSPD Houston، وإشعارات جديدة بعدّاد زمني، وتحديث Typical Callouts.
 
 **مودات جديدة**
 
-- **Immersive Vehicles**: سكربت يضيف تفاصيل تفاعلية للمركبات: لوحة العدادات والتعبئة بالوقود وهاتف الطريق
-- **RDE - Realistic Dispatch Enhancement**: يطوّر نظام البلاغات والاستجابة في اللعبة: وحدات ومركبات طوارئ وسلوك أقرب للواقع. يأتي مع ملف إلغاء التثبيت
-- **RDE - Realistic Dispatch Enhancement — Uninstall**
-- **sCallout**: حزمة بلاغات جديدة مع قائمة تفاعل للفحص والتفتيش
-- **SuperCallouts**: حزمة بلاغات كبيرة بمواقف مختلفة
-- **Typical Callouts**: بلاغات يومية هادئة بدون مطاردات سريعة
+- **BCSO Sheriff Pack [ELS]**: 9 سيارات شرطة بطابع BCSO (تشارجر ودورانجو): مميّزة وبدون علامات وسقف أملس ومرور، وتستبدل سيارات الشرطة الأصلية (sheriff / police / police3 / fbi / policeold2 / sheriff2 / police2 / police4 / fbi2) ومعها ملفات ELS. تتطلب ELS
+- **BCSO Sheriff Pack [ELS] — Uninstall**
+- **Living World AI (LSPDFR)**: عالم حي: شخصيات اللعبة تتصرف وتتحدث بذكاء اصطناعي عبر تطبيق Player2
+- **LSPD Houston Pack [ELS]**: 5 سيارات شرطة بطابع LSPD هيوستن بطلاء عاكس: كراون فيكتوريا وFPIU 2016 وFPIU 2020 وتاهو 2014 سقف أملس وFPIU مشرف، وتستبدل سيارات الشرطة الأصلية (police / police2 / police3 / police4 / fbi2) ومعها ملفات ELS. تتطلب ELS
+- **LSPD Houston Pack [ELS] — Uninstall**
+- **NPC-AI**: تحدّث بصوتك مع المدنيين والشرطة والإسعاف بذكاء Gemini ويردّون عليك
 
 **جديد**
 
-- «إصلاح سريع» في تحليل آخر تشغيل: يعطّل المود المسبب ويحدد الملفات الناقصة ويجهّز بحثًا عن الحل
-- زر مسح السجلات القديمة وملفات الانهيار من مجلد اللعبة
-- اختيار مقاس الكيبورد (60 / 65 / 75 / 80 / 100%) مع توزيع الأزرار تلقائيًا
-- زر تجاهل التعارض في محرر الأزرار
-- كشف حزم إزالة OIV تلقائيًا وزر إزالة لكل مود
-- علامة اللغة AR / EN على كل مود وفلتر للمودات العربية
-- فرز كل قسم: الأحدث، آخر تحديث، اللغة
-- مساعد داخل البرنامج يجيب عن البرنامج والمودات واللعبة بشكل أفضل
-- مودات جديدة: sCallout وTypical Callouts وImmersive Vehicles وRDE
-- تعريب أزرار مودات جديدة في محرر الأزرار
+- مود NPC-AI: بعد اختياره تختار اللغة (عربي أو إنجليزي)، وإذا اخترت عربي تختار اللهجة (سعودي، كويتي، عراقي، سوداني وغيرها) مع برومبت قوي يلتزم باللهجة
+- إضافة أكثر من مفتاح API لمود NPC-AI مع شرح مبسط لإنشاء المفتاح من Google AI Studio
+- حزم سيارات شرطة OIV جديدة: BCSO وLSPD Houston، لكل حزمة وصف وأيقونة ولون وحزمة إلغاء تثبيت
+- إضافة NPC-AI وLiving World AI إلى كتالوج المودات بالوصف والمتطلبات
+- إشعارات جديدة تنزل من أعلى منتصف البرنامج بعدّاد زمني ثم تختفي
 
 **تحسينات**
 
-- رسالة أوضح عند ازدحام ديسكورد أثناء تسجيل الدخول
-- عداد المستخدمين في الرئيسية رقم فقط وزر ديسكورد في الصف العلوي بنفس التصميم
-- إخفاء رسائل الأخطاء المزعجة من وحدة التحكم
-
-**إصلاحات**
-
-- بطاقة مود كانت تظهر مكررة بعد تغيير اسمه
-- المودات كانت تختفي عند تفعيل فلتر العربي بدون نتيجة
-- زر مسح السجلات القديمة ما كان يظهر نتيجته
+- تحديث مود Typical Callouts من 1.5.0 إلى 1.5.1
+- اسم عربي لزر إغلاق الشخصية في إعدادات NPC-AI
+- أسماء الأقسام في القائمة الجانبية تلتف على سطرين في النوافذ الصغيرة
 
 </div>
 
@@ -159,45 +148,34 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <!-- LATEST_EN:START -->
 
-### Latest update: v1.0.5
+### Latest update: v1.0.6
 
-**Quick Fix and Major Improvements**
+**NPC-AI in Your Dialect and New Notifications**
 
-This update adds a quick crash fix, old log cleanup, keyboard size selection and new mods including RDE and Typical Callouts.
+This update adds language and dialect selection for NPC-AI with multi-key support, BCSO and LSPD Houston vehicle packs, new notifications with a countdown, and a Typical Callouts update.
 
 **New mods**
 
-- **Immersive Vehicles**: A script that adds interactive vehicle details: dashboard, refuelling and a roadside phone
-- **RDE - Realistic Dispatch Enhancement**: Improves the in-game dispatch and response system with more realistic units, emergency vehicles and behaviour. Comes with an uninstall file
-- **RDE - Realistic Dispatch Enhancement — Uninstall**
-- **sCallout**: A callout pack with an interaction menu for tests and searches
-- **SuperCallouts**: A large callout pack
-- **Typical Callouts**: Calm everyday callouts without high-speed pursuits
+- **BCSO Sheriff Pack [ELS]**: 9 BCSO-style police cars (Charger and Durango): marked, unmarked, slicktop and traffic. They replace the stock police cars (sheriff / police / police3 / fbi / policeold2 / sheriff2 / police2 / police4 / fbi2) and ELS files are included. Requires ELS
+- **BCSO Sheriff Pack [ELS] — Uninstall**
+- **Living World AI (LSPDFR)**: Living world: in-game peds act and talk with AI through the Player2 app
+- **LSPD Houston Pack [ELS]**: 5 Houston-style LSPD police cars with reflective liveries: Crown Victoria, 2016 FPIU, 2020 FPIU, 2014 Tahoe slicktop and a supervisor FPIU. They replace the stock police cars (police / police2 / police3 / police4 / fbi2) and ELS files are included. Requires ELS
+- **LSPD Houston Pack [ELS] — Uninstall**
+- **NPC-AI**: Talk by voice with civilians, police and EMS, powered by Gemini AI
 
 **New**
 
-- "Quick Fix" in last-run analysis: disables the offending mod, finds missing files and prepares a search for the solution
-- A button to clear old logs and crash files from the game folder
-- Keyboard size selection (60 / 65 / 75 / 80 / 100%) with automatic key layout
-- An ignore-conflict button in the key editor
-- Automatic detection of OIV uninstall packages and an uninstall button for each mod
-- AR / EN language badge on every mod and a filter for Arabic mods
-- Sorting for every section: newest, last updated, language
-- An in-app assistant that answers better about the program, mods and the game
-- New mods: sCallout, Typical Callouts, Immersive Vehicles and RDE
-- Arabic labels for the buttons of new mods in the key editor
+- NPC-AI mod: after selecting it you pick the language (Arabic or English), and for Arabic you pick the dialect (Saudi, Kuwaiti, Iraqi, Sudanese and more) with a strong prompt that stays in the dialect
+- Add more than one API key for NPC-AI with a simple guide to creating a key in Google AI Studio
+- New OIV police vehicle packs: BCSO and LSPD Houston, each with a description, icon, color and an uninstall package
+- NPC-AI and Living World AI added to the mod catalog with descriptions and requirements
+- New notifications that drop from the top center with a countdown and then disappear
 
 **Improvements**
 
-- A clearer message when Discord is busy during sign-in
-- The home users counter is now a number only and the Discord button moved to the top row with the same design
-- Noisy console error messages are hidden
-
-**Fixes**
-
-- A mod card appeared twice after its name was changed
-- Mods disappeared when the Arabic filter was on with no results
-- The clear old logs button did not show its result
+- Typical Callouts mod updated from 1.5.0 to 1.5.1
+- Arabic label for the dismiss-character key in NPC-AI settings
+- Section names in the side menu wrap onto two
 
 <!-- LATEST_EN:END -->
 
