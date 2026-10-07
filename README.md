@@ -6,7 +6,7 @@
 
 **شرطة لوس سانتوس على جهازك بضغطة واحدة**
 
-<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest/download/Code3-Setup.exe"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20Code%203-1A6CF5?style=for-the-badge" height="52" alt="تحميل Code 3"></a>
+<a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest/download/Code3-Setup.exe"><img src="https://img.shields.io/badge/%E2%AC%87%20Download%20Code%203-1A6CF5?style=for-the-badge" height="84" alt="تحميل Code 3"></a>
 
 <a href="https://github.com/AbdullahAmoudi/code3-download/releases/latest"><img src="https://img.shields.io/github/v/release/AbdullahAmoudi/code3-download?style=flat-square&label=Version&color=1A6CF5" alt="الإصدار"></a>
 <img src="https://img.shields.io/badge/GTA%20V-Legacy-16A34A?style=flat-square" alt="GTA V Legacy">
