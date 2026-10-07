@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows 10 / 11">
 <img src="https://img.shields.io/badge/Price-Free-E53935?style=flat-square" alt="مجاني">
 <a href="https://discord.gg/tTCec6qMw"><img src="https://img.shields.io/badge/Discord-Code%203-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+<img src="https://komarev.com/ghpvc/?username=code3-download-AbdullahAmoudi&label=Visitors&color=1A6CF5&style=flat-square" alt="Visitors">
 
 </div>
 
@@ -147,6 +148,42 @@ Code 3 Installer مخصّص لتسهيل تثبيت المودات على نسخ
 A free app that installs **LSPDFR** and police mods on **GTA V Legacy**, with no manual file copying and no modding experience.
 
 Installing police mods by hand takes hours of searching, downloading and placing files in the game folders, and one small mistake stops the game from starting. With Code 3 you pick what you want and the app puts every file where it belongs.
+
+<!-- LATEST_EN:START -->
+
+### Latest update: v1.0.4
+
+**New Main Interface and Comprehensive Button Editor Updates**
+
+This update introduces a completely new main interface with comprehensive improvements to smart installation and the button editor, alongside support for the latest mod versions like Background Radio Chatter.
+
+**New**
+
+- A new home page introducing the program, showcasing the latest additions, workflow, program goals, and information.
+- The 'Latest Additions' section on the home page displays the latest version mods, and clicking any mod navigates to it directly.
+- Images and video for each mod inside its information window, with image zoom and navigation capabilities.
+- An explanation button in the OIV Creator clarifies what an OIV file is, the creator's concept, and usage steps.
+- A video explanation button inside the program usage instructions window.
+- A dedicated image for each theme on the home page: Light, Dark, and Calm.
+
+**Improvements**
+
+- Smart installation displays the content of each type before selection, with the ability to go back and compare between both types.
+- Updated Background Radio Chatter mod to version 1.2.2.
+- Clarified the difference between the classic and modern experience and the specific add-ons for each.
+- The button editor reads buttons for more mods: Simple Trainer, BasicAnimations, OutfitToggler, Country Murders, and others.
+- Unassigned buttons appear in the button editor so a key can be assigned to them.
+- The home page adapts to the window size and fills the space without a scrollbar.
+- A lighter top bar: Supporters, Contact Us, OIV Creator, and user count buttons were moved to the home page.
+- The Code 3 Community button on the home page opens the server directly.
+
+**Fixes**
+
+- The seatbelt button in the Seatbelt mod was not showing in the button editor.
+- Buttons for Combat Enhanced, Realistic Taser, and Reverse Camera were not being read.
+- Fixed the search field background inside sections under the dark theme.
+
+<!-- LATEST_EN:END -->
 
 ### 🎬 See it before you download
 
