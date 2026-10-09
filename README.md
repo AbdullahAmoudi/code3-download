@@ -53,34 +53,24 @@
 
 <div dir="rtl">
 
-### آخر تحديث: v1.0.6
+### آخر تحديث: v1.0.7
 
-**مود NPC-AI بلهجتك وإشعارات جديدة**
+**استديو الإعلانات وإعلانات المجتمع**
 
-يضيف هذا التحديث اختيار اللغة واللهجة لمود NPC-AI مع دعم أكثر من مفتاح، وحزم سيارات BCSO وLSPD Houston، وإشعارات جديدة بعدّاد زمني، وتحديث Typical Callouts.
-
-**مودات جديدة**
-
-- **BCSO Sheriff Pack [ELS]**: 9 سيارات شرطة بطابع BCSO (تشارجر ودورانجو): مميّزة وبدون علامات وسقف أملس ومرور، وتستبدل سيارات الشرطة الأصلية (sheriff / police / police3 / fbi / policeold2 / sheriff2 / police2 / police4 / fbi2) ومعها ملفات ELS. تتطلب ELS
-- **BCSO Sheriff Pack [ELS] — Uninstall**
-- **Living World AI (LSPDFR)**: عالم حي: شخصيات اللعبة تتصرف وتتحدث بذكاء اصطناعي عبر تطبيق Player2
-- **LSPD Houston Pack [ELS]**: 5 سيارات شرطة بطابع LSPD هيوستن بطلاء عاكس: كراون فيكتوريا وFPIU 2016 وFPIU 2020 وتاهو 2014 سقف أملس وFPIU مشرف، وتستبدل سيارات الشرطة الأصلية (police / police2 / police3 / police4 / fbi2) ومعها ملفات ELS. تتطلب ELS
-- **LSPD Houston Pack [ELS] — Uninstall**
-- **NPC-AI**: تحدّث بصوتك مع المدنيين والشرطة والإسعاف بذكاء Gemini ويردّون عليك
+يضيف هذا التحديث نظام إعلانات كاملًا: طلب إعلان من داخل البرنامج، وبنرات متحركة في الصفحة الرئيسية، وإعلانات المجتمع برومات كتابة خاصة، مع إصلاح حفظ مفتاح NPC-AI.
 
 **جديد**
 
-- مود NPC-AI: بعد اختياره تختار اللغة (عربي أو إنجليزي)، وإذا اخترت عربي تختار اللهجة (سعودي، كويتي، عراقي، سوداني وغيرها) مع برومبت قوي يلتزم باللهجة
-- إضافة أكثر من مفتاح API لمود NPC-AI مع شرح مبسط لإنشاء المفتاح من Google AI Studio
-- حزم سيارات شرطة OIV جديدة: BCSO وLSPD Houston، لكل حزمة وصف وأيقونة ولون وحزمة إلغاء تثبيت
-- إضافة NPC-AI وLiving World AI إلى كتالوج المودات بالوصف والمتطلبات
-- إشعارات جديدة تنزل من أعلى منتصف البرنامج بعدّاد زمني ثم تختفي
+- طلب إعلان من داخل البرنامج: تختار النوع (داخل التطبيق أو في ديسكورد) والباقة (شهر، 3 أشهر، 6 أشهر) ويصل طلبك مرتبًا إلى فريق Code 3
+- الصفحة الرئيسية فيها بنر كبير في الأعلى وبنران صغيران تحته، وتدعم الصور المتحركة GIF وWebP وPNG وJPG
+- إعلانات المجتمع: روم كتابة خاص بشخص لمدة محددة، يُنشأ تلقائيًا بالبوت ويُحذف عند انتهاء المدة
+- إعلانات ديسكورد تنزل في قناة خاصة باسم الإعلان وتُحذف عند انتهاء المدة
 
-**تحسينات**
+**إصلاحات**
 
-- تحديث مود Typical Callouts من 1.5.0 إلى 1.5.1
-- اسم عربي لزر إغلاق الشخصية في إعدادات NPC-AI
-- أسماء الأقسام في القائمة الجانبية تلتف على سطرين في النوافذ الصغيرة
+- مفتاح Gemini في NPC-AI لم يكن يُحفظ ولا يظهر عند فتح النافذة مرة ثانية
+- المفتاح الجديد لم يكن يُكتب في الملف إذا كان عندك مفتاح قديم محفوظ
+- تعارض النشر عند تحديث الإعلانات كان يمنع ظهور الإعلان
 
 </div>
 
@@ -148,34 +138,24 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <!-- LATEST_EN:START -->
 
-### Latest update: v1.0.6
+### Latest update: v1.0.7
 
-**NPC-AI in Your Dialect and New Notifications**
+**Ads Studio and Community Ads**
 
-This update adds language and dialect selection for NPC-AI with multi-key support, BCSO and LSPD Houston vehicle packs, new notifications with a countdown, and a Typical Callouts update.
-
-**New mods**
-
-- **BCSO Sheriff Pack [ELS]**: 9 BCSO-style police cars (Charger and Durango): marked, unmarked, slicktop and traffic. They replace the stock police cars (sheriff / police / police3 / fbi / policeold2 / sheriff2 / police2 / police4 / fbi2) and ELS files are included. Requires ELS
-- **BCSO Sheriff Pack [ELS] — Uninstall**
-- **Living World AI (LSPDFR)**: Living world: in-game peds act and talk with AI through the Player2 app
-- **LSPD Houston Pack [ELS]**: 5 Houston-style LSPD police cars with reflective liveries: Crown Victoria, 2016 FPIU, 2020 FPIU, 2014 Tahoe slicktop and a supervisor FPIU. They replace the stock police cars (police / police2 / police3 / police4 / fbi2) and ELS files are included. Requires ELS
-- **LSPD Houston Pack [ELS] — Uninstall**
-- **NPC-AI**: Talk by voice with civilians, police and EMS, powered by Gemini AI
+This update adds a complete ads system: request an ad from inside the app, animated banners on the home page, community ads with private writing rooms, plus a fix for saving the NPC-AI key.
 
 **New**
 
-- NPC-AI mod: after selecting it you pick the language (Arabic or English), and for Arabic you pick the dialect (Saudi, Kuwaiti, Iraqi, Sudanese and more) with a strong prompt that stays in the dialect
-- Add more than one API key for NPC-AI with a simple guide to creating a key in Google AI Studio
-- New OIV police vehicle packs: BCSO and LSPD Houston, each with a description, icon, color and an uninstall package
-- NPC-AI and Living World AI added to the mod catalog with descriptions and requirements
-- New notifications that drop from the top center with a countdown and then disappear
+- Request an ad from inside the app: choose the type (in-app or on Discord) and the package (1, 3 or 6 months), and your request reaches the Code 3 team neatly organized
+- The home page now has a big banner on top and two small ones below, supporting animated GIF, WebP, PNG and JPG
+- Community ads: a private writing room for one person for a set period, created automatically by the bot and deleted when the period ends
+- Discord ads are posted in their own channel named after the ad and removed when the period ends
 
-**Improvements**
+**Fixes**
 
-- Typical Callouts mod updated from 1.5.0 to 1.5.1
-- Arabic label for the dismiss-character key in NPC-AI settings
-- Section names in the side menu wrap onto two
+- The NPC-AI Gemini key was not saved and did not show when reopening the window
+- A new key was not written to the file when an older key was already saved
+- A publishing conflict when updating ads could stop the ad from showing
 
 <!-- LATEST_EN:END -->
 
