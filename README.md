@@ -53,24 +53,27 @@
 
 <div dir="rtl">
 
-### آخر تحديث: v1.0.7
+### آخر تحديث: v1.0.8
 
-**استديو الإعلانات وإعلانات المجتمع**
+**واجهة التثبيت وإصلاح أزرار التحديد**
 
-يضيف هذا التحديث نظام إعلانات كاملًا: طلب إعلان من داخل البرنامج، وبنرات متحركة في الصفحة الرئيسية، وإعلانات المجتمع برومات كتابة خاصة، مع إصلاح حفظ مفتاح NPC-AI.
+يحسّن هذا التحديث واجهة التثبيت: فتح البرنامج على كامل الشاشة، وجمع الترتيب وخيار «يدعم العربية» في زر واحد، مع إصلاح أزرار التحديد وتبويبات الاستديو.
 
 **جديد**
 
-- طلب إعلان من داخل البرنامج: تختار النوع (داخل التطبيق أو في ديسكورد) والباقة (شهر، 3 أشهر، 6 أشهر) ويصل طلبك مرتبًا إلى فريق Code 3
-- الصفحة الرئيسية فيها بنر كبير في الأعلى وبنران صغيران تحته، وتدعم الصور المتحركة GIF وWebP وPNG وJPG
-- إعلانات المجتمع: روم كتابة خاص بشخص لمدة محددة، يُنشأ تلقائيًا بالبوت ويُحذف عند انتهاء المدة
-- إعلانات ديسكورد تنزل في قناة خاصة باسم الإعلان وتُحذف عند انتهاء المدة
+- البرنامج يفتح الآن على كامل الشاشة تلقائيًا
+- الترتيب وخيار «يدعم العربية» صارا داخل زر واحد في رأس كل قسم
+
+**تحسينات**
+
+- رأس الأقسام أنظف وأقل ازدحامًا
+- شريط تبويبات الاستديو يتمرر أفقيًا في النوافذ الصغيرة ويُظهر التبويب المحدد
 
 **إصلاحات**
 
-- مفتاح Gemini في NPC-AI لم يكن يُحفظ ولا يظهر عند فتح النافذة مرة ثانية
-- المفتاح الجديد لم يكن يُكتب في الملف إذا كان عندك مفتاح قديم محفوظ
-- تعارض النشر عند تحديث الإعلانات كان يمنع ظهور الإعلان
+- أزرار التحديد (الكل، المطلوب، غير المثبّت، لا شيء) لم تكن تعمل
+- خطأ كان يعطّل عرض مود لا يحتوي على متطلبات
+- بعض تبويبات الاستديو كانت تختفي في النوافذ الصغيرة
 
 </div>
 
@@ -138,24 +141,27 @@ Installing police mods by hand takes hours of searching, downloading and placing
 
 <!-- LATEST_EN:START -->
 
-### Latest update: v1.0.7
+### Latest update: v1.0.8
 
-**Ads Studio and Community Ads**
+**Install View and Selection Buttons Fix**
 
-This update adds a complete ads system: request an ad from inside the app, animated banners on the home page, community ads with private writing rooms, plus a fix for saving the NPC-AI key.
+This update improves the install view: the app opens full screen, sorting and the “supports Arabic” option are merged into a single button, plus fixes for the selection buttons and the Studio tabs.
 
 **New**
 
-- Request an ad from inside the app: choose the type (in-app or on Discord) and the package (1, 3 or 6 months), and your request reaches the Code 3 team neatly organized
-- The home page now has a big banner on top and two small ones below, supporting animated GIF, WebP, PNG and JPG
-- Community ads: a private writing room for one person for a set period, created automatically by the bot and deleted when the period ends
-- Discord ads are posted in their own channel named after the ad and removed when the period ends
+- The app now opens full screen automatically
+- Sorting and the “supports Arabic” option now live inside a single button in each section header
+
+**Improvements**
+
+- Section headers are cleaner and less crowded
+- The Studio tab bar scrolls horizontally in small windows and keeps the selected tab in view
 
 **Fixes**
 
-- The NPC-AI Gemini key was not saved and did not show when reopening the window
-- A new key was not written to the file when an older key was already saved
-- A publishing conflict when updating ads could stop the ad from showing
+- The selection buttons (All, Required, Not installed, None) were not working
+- An error that broke the display of a mod with no requirements
+- Some Studio tabs were disappearing in small windows
 
 <!-- LATEST_EN:END -->
 
